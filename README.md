@@ -34,7 +34,7 @@ lib/
 │   └── product_grid.dart
 │
 └── main.dart
-
+```
 ## 🚀 How to Run
 
 1. Make sure you have Flutter 3.x or above installed
