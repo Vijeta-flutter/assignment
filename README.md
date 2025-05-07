@@ -1,16 +1,52 @@
 # assignment
+## 📱 Screenshots
 
-A new Flutter project.
+<div style="display: flex; flex-direction: row;">
+  <img src="assets/screenshots/homescreen1.png" width="250" >
+  <img src="assets/screenshots/homescreen2.png" width="250" >
+  <img src="assets/screenshots/homescreen3.png" width="250">
+  <img src="assets/screenshots/homescreen4.png" width="250">
+</div>
 
-## Getting Started
+## 📂 Project Structure
 
-This project is a starting point for a Flutter application.
+\`\`\`
+lib/
+├── data/
+│   └── dummy_data.dart
+├── models/
+│   ├── category.dart
+│   └── product.dart
+├── providers/
+│   ├── product_provider.dart
+│   └── theme_provider.dart
+├── screens/
+│   └── home_screen.dart
+├── widgets/
+│   ├── bottom_nav_bar.dart
+│   ├── category_list.dart
+│   ├── custom_app_bar.dart
+│   ├── offer_carousel.dart
+│   └── product_grid.dart
+└── main.dart
+\`\`\`
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make sure you have Flutter 3.x or above installed
+2. Clone the repository
+   \`\`\`
+   git clone https://github.com/yourusername/blinkit_clone.git
+   \`\`\`
+3. Navigate to the project directory
+   \`\`\`
+   cd blinkit_clone
+   \`\`\`
+4. Get dependencies
+   \`\`\`
+   flutter pub get
+   \`\`\`
+5. Run the app
+   \`\`\`
+   flutter run
+   \`\`\`
