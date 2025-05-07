@@ -1,0 +1,51 @@
+name: assignment
+description: "Assignment"
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: 
+  provider: 
+  carousel_slider: 
+  google_fonts: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/categories/
+    - assets/images/banners/
+    - assets/images/products/apple.jpg
+    - assets/images/products/banana.jpg
+    - assets/images/products/butter.jpg
+    - assets/images/products/cheese.jpg
+    - assets/images/products/eggs.jpg
+    - assets/images/products/
+    - assets/images/products/onion.jpg
+    - assets/images/products/tomato.jpg
+
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
