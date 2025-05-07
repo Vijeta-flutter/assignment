@@ -40,7 +40,7 @@ lib/
 1. Make sure you have Flutter 3.x or above installed
 2. Clone the repository
    \`\`\`
-   git clone [https://github.com/Vijeta-flutter/assignment]
+   git clone [https://github.com/Vijeta-flutter/assignment.git]
    \`\`\`
 3. Navigate to the project directory
    \`\`\`
