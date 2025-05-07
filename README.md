@@ -9,7 +9,7 @@
 </div>
 
 ## 📂 Project Structure
-
+```bash
 lib/
 │
 ├── data/
