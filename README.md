@@ -10,26 +10,7 @@
 
 ## 📂 Project Structure
 
-\`\`\`
-lib/
-├── data/
-│   └── dummy_data.dart
-├── models/
-│   ├── category.dart
-│   └── product.dart
-├── providers/
-│   ├── product_provider.dart
-│   └── theme_provider.dart
-├── screens/
-│   └── home_screen.dart
-├── widgets/
-│   ├── bottom_nav_bar.dart
-│   ├── category_list.dart
-│   ├── custom_app_bar.dart
-│   ├── offer_carousel.dart
-│   └── product_grid.dart
-└── main.dart
-\`\`\`
+<pre> ```bash lib/ ├── data/ │ └── dummy_data.dart ├── models/ │ ├── category.dart │ └── product.dart ├── providers/ │ ├── product_provider.dart │ └── theme_provider.dart ├── screens/ │ └── home_screen.dart ├── widgets/ │ ├── bottom_nav_bar.dart │ ├── category_list.dart │ ├── custom_app_bar.dart │ ├── offer_carousel.dart │ └── product_grid.dart └── main.dart ``` </pre>
 
 ## 🚀 How to Run
 
