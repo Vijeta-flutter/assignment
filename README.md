@@ -44,13 +44,17 @@ lib/
    \`\`\`
 3. Navigate to the project directory
    \`\`\`
-   cd blinkit_clone
+   cd assignment
    \`\`\`
-4. Get dependencies
+4. Open it in your code editor
+   \`\`\`
+   code .
+   \`\`\`
+5. Get dependencies
    \`\`\`
    flutter pub get
    \`\`\`
-5. Run the app
+6. Run the app
    \`\`\`
    flutter run
    \`\`\`
